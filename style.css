@@ -1,6 +1,6 @@
 .tantunii {
-  height: 60%;
-  width: 60%;
+  height: 30%;
+  width: 30%;
 }
 
 .recipes {
@@ -8,11 +8,16 @@
 }
 
 .pisi {
-  height: 60%;
-  width: 60%;
+  height: 30%;
+  width: 30%;
 }
 
 .irem {
-  height: 60%;
-  width: 60%;
+  height: 30%;
+  width: 30%;
+}
+
+.menemen {
+  height: 30%;
+  width: 30%;
 }
